@@ -1,3 +1,5 @@
+"----------General----------"
+
 set nocompatible				"Be iMproved, required
 so ~/.vim/plugins.vim				"Souce Vundle bootstrap
 syntax enable					"Syntax highlighting
@@ -25,6 +27,7 @@ hi vertsplit ctermfg=000 ctermbg=000
 hi TabLineFill ctermfg=16 ctermbg=16
 hi TabLine ctermfg=240 ctermbg=16
 hi TabLineSel ctermfg=240 ctermbg=234
+
 
 "----------Search----------"
 
@@ -72,6 +75,7 @@ nmap <c-E> :CtrlPMRUFiles<cr>
 
 "Find a tag
 nmap <leader>f :tag<space>
+
 
 "----------Plugins----------"
 
