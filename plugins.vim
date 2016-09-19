@@ -12,6 +12,15 @@ Plugin 'tpope/vim-vinegar'
 Plugin 'scrooloose/nerdtree'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'craigemery/vim-autotag'
+Plugin 'MarcWeber/vim-addon-mw-utils'
+Plugin 'tomtom/tlib_vim'
+Plugin 'garbas/vim-snipmate'
+Plugin 'tpope/vim-surround'
+Plugin 'StanAngeloff/php.vim'
+Plugin 'arnaud-lb/vim-php-namespace'
+Plugin 'ervandew/supertab'
+Plugin 'stephpy/vim-php-cs-fixer'
+Plugin 'scrooloose/nerdcommenter'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
